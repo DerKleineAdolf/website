@@ -76,5 +76,11 @@ contributions:
       url: "https://github.com/TahsinTariq"
     url: "https://tahsintariq.github.io/p5js/P5_Sketches/P5_Web_Collection/perlin_basic/"
     source: "https://github.com/TahsinTariq/p5js/tree/master/P5_Sketches/P5_Web_Collection/perlin_basic"
+   - title: "Editable terrain"
+     author:
+        name: "PLOTFINDER / OLDSEN"
+        url: "https://github.com/DerKleineAdolf"
+     url: "https://editor.p5js.org/PLOTFINDER/present/hwwFr4apk"
+     source: "https://editor.p5js.org/PLOTFINDER/sketches/hwwFr4apk"
 ---
 In this coding challenge, I create a 3D procedural terrain using Perlin Noise and the beginShape() function in Processing.
